@@ -1,5 +1,4 @@
-# 🚀 Welcome to CS1002 Programming Fundamentals Resources! 🌟
-
+#  Welcome to CS1002 Programming Fundamentals Resources! 
 Hey there, curious coder! 👋
 This repo is here to guide you, challenge you, and make sure you have FUN along the way! 🎉
 It has all the resource material you will need for **Spring 2024 CS1002 Programming Fundamentals Course**.
@@ -12,7 +11,8 @@ It has all the resource material you will need for **Spring 2024 CS1002 Programm
 ## 🤝 **Community & Support**
 Learning is better together! If you have any questions, feel free to:
 - **Drop an Email** 
-- **Reach out in class** or on our **Discord** community
+- **Reach out in class**
+- **Reach out on Discord**
 
 Enjoy your coding journey and remember: **The best way to learn is by doing**!
 
