@@ -11,9 +11,9 @@ It has all the resource material you will need for **Spring 2024 CS1002 Programm
 
 ## 🤝 **Community & Support**
 Learning is better together! If you have any questions, feel free to:
-- **Drop an Email** 
+- **Drop an Email** at sumaiyah@nu.edu.pk
 - **Reach out in class**
-- **Reach out on Discord**
+- **Reach out on Discord** https://discord.gg/vKWcdMP38m
 
 Enjoy your coding journey and remember: **The best way to learn is by doing**!
 
