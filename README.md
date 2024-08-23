@@ -2,7 +2,7 @@
 Hey there, curious coder! 
 
 This repo is here to guide you, challenge you, and make sure you have FUN along the way! 
-It has all the resource material you will need for **Spring 2024 CS1002 Programming Fundamentals Course**.
+It has all the resource material you will need for **Fall 2024 CS1002 Programming Fundamentals Course**.
 
 ## 🛠 **How to Use This Repo**
 1. **Clone it**: `git clone https://github.com/SumaiyahZahid/ProgrammingFundamentals.git`
